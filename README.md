@@ -1,7 +1,7 @@
 ### Olá !! Meu nome é Arthur, desenvolvedor front-end!!
 
 - 🔭 Desenvolvedor web 
-- 🌱 Aprofundando em JavaScript 
+- 🌱 JavaScript 
 
 <div align="center">
   <a href="https://www.instagram.com/arthur.abreup/">
