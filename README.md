@@ -1,4 +1,4 @@
-### Olá !! Meu nome é Arthur, desenvolvedor front-end!!
+### Olá !! Meu nome é Arthur !!
 
 - 🔭 Desenvolvedor web 
 - 🌱 JavaScript 
