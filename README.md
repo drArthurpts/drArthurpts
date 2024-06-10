@@ -1,7 +1,5 @@
 ### Olá !! Meu nome é Arthur !!
 
-- 🔭 Desenvolvedor web 
-- 🌱 JavaScript 
 
 <div align="center">
   <a href="https://www.instagram.com/arthur.abreup/">
